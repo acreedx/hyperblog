@@ -2,4 +2,6 @@ Esta es una prueba de un
 
 archivo de texto para 
 
-un curso de platzi 
+un curso de platzi acerca de github
+
+el 6 de junio de 2022
