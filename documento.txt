@@ -5,3 +5,5 @@ archivo de texto para mi vida
 un curso de platzi acerca de github
 
 el 6 de junio de 2022
+
+cambio de maestria
